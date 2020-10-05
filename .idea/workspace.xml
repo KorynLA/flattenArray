@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6acce8d-e577-4ca3-9ee5-4ce705fab6a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iQr9rFVUWLnkg2CqEaXW0OkXLY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FlattenArrayTest.negativeExample_shouldReportHighest5000LowestNeg1">
+    <configuration name="FlattenArrayTest.emptyArray_shouldReportHighestNothingLowestNothing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flattenArray" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlattenArrayTest" />
+      <option name="METHOD_NAME" value="emptyArray_shouldReportHighestNothingLowestNothing" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlattenArrayTest.emptyArray_shouldThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flattenArray" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlattenArrayTest" />
+      <option name="METHOD_NAME" value="emptyArray_shouldThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlattenArrayTest.largeExample_shouldReportHighest9Lowest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flattenArray" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlattenArrayTest" />
+      <option name="METHOD_NAME" value="largeExample_shouldReportHighest9Lowest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlattenArrayTest.negativeExample_shouldReportHighest5000LowestNeg1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flattenArray" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlattenArrayTest" />
+      <option name="METHOD_NAME" value="negativeExample_shouldReportHighest5000LowestNeg1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlattenArrayTest.negativeExample_shouldReturnFlattened" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="flattenArray" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlattenArrayTest" />
+      <option name="METHOD_NAME" value="negativeExample_shouldReturnFlattened" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="flattenArray" />
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FlattenArrayTest.emptyArray_shouldThrowException" />
+      <item itemvalue="JUnit.FlattenArrayTest.emptyArray_shouldReportHighestNothingLowestNothing" />
+      <item itemvalue="JUnit.FlattenArrayTest.largeExample_shouldReportHighest9Lowest1" />
+      <item itemvalue="JUnit.FlattenArrayTest.negativeExample_shouldReturnFlattened" />
+      <item itemvalue="JUnit.FlattenArrayTest.negativeExample_shouldReportHighest5000LowestNeg1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FlattenArrayTest.negativeExample_shouldReportHighest5000LowestNeg1" />
+        <item itemvalue="JUnit.FlattenArrayTest.negativeExample_shouldReturnFlattened" />
+        <item itemvalue="JUnit.FlattenArrayTest.largeExample_shouldReportHighest9Lowest1" />
+        <item itemvalue="JUnit.FlattenArrayTest.emptyArray_shouldReportHighestNothingLowestNothing" />
+        <item itemvalue="JUnit.FlattenArrayTest.emptyArray_shouldThrowException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6acce8d-e577-4ca3-9ee5-4ce705fab6a0" name="Default Changelist" comment="" />
+      <created>1601850507963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601850507963</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="101" key="#Project_Structure" timestamp="1601850526830">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="241" y="101" key="#Project_Structure/0.23.1440.829@0.23.1440.829" timestamp="1601850526830" />
+    <state x="105" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601852003479">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="105" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1601852003479" />
+    <state x="100" y="154" width="1200" height="598" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601930951882">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="100" y="154" width="1200" height="598" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.833@0.23.1440.833" timestamp="1601930951882" />
+    <state x="395" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601867419673">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="395" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.829@0.23.1440.829" timestamp="1601867419673" />
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom" timestamp="1601931202521">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1601867462162" />
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1601924008950" />
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1601931202521" />
+    <state width="1358" height="204" key="GridCell.Tab.0.center" timestamp="1601931202520">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1601867462161" />
+    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1601924008948" />
+    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1601931202520" />
+    <state width="1358" height="204" key="GridCell.Tab.0.left" timestamp="1601931202519">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1601867462113" />
+    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1601924008947" />
+    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1601931202519" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right" timestamp="1601931202520">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1601867462162" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1601924008949" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1601931202520" />
+    <state width="254" height="200" key="RunAnythingAction_Filter_Popup" timestamp="1601851398833">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="254" height="200" key="RunAnythingAction_Filter_Popup/0.23.1440.829@0.23.1440.829" timestamp="1601851398833" />
+    <state x="129" y="23" width="1024" height="833" key="SettingsEditor" timestamp="1601931200625">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="129" y="23" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1601867379427" />
+    <state x="129" y="23" width="1024" height="833" key="SettingsEditor/0.23.1440.833@0.23.1440.833" timestamp="1601931200625" />
+    <state x="353" y="336" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601851148052">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="353" y="336" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.829@0.23.1440.829" timestamp="1601851148052" />
+    <state x="420" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601867440687">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="420" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.829@0.23.1440.829" timestamp="1601867440687" />
+    <state x="306" y="198" key="run.anything.popup" timestamp="1601851398857">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="306" y="198" key="run.anything.popup/0.23.1440.829@0.23.1440.829" timestamp="1601851398857" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/FlattenArrayTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flattenArray$FlattenArrayTest_negativeExample_shouldReportHighest5000LowestNeg1.ic" NAME="FlattenArrayTest.negativeExample_shouldReportHighest5000LowestNeg1 Coverage Results" MODIFIED="1601931202452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/flattenArray$FlattenArray.ic" NAME="FlattenArray Coverage Results" MODIFIED="1601924782402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/flattenArray$FlattenArrayTest.ic" NAME="FlattenArrayTest Coverage Results" MODIFIED="1601925508981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

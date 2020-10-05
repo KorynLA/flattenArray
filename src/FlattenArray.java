@@ -55,7 +55,7 @@ public class FlattenArray {
             System.out.println("Cannot use empty array");
         }
         for(int i=0; i < flattenedArr.length; i++) {
-            System.out.println(flattenedArr[i]);
+            System.out.print(flattenedArr[i]);
         }
 
     }

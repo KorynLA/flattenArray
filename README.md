@@ -7,5 +7,5 @@ Returns a 1D array from a 2D array
 - javac src/FlattenArray.java
 - java src/FlattenArray
 
-#Assumptions
-- Only int values will be given to the array and the values will not overflow
+# Assumptions
+- Only int values will be given to the array 

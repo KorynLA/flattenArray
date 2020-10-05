@@ -84,7 +84,7 @@ public class FlattenArrayTest {
         assertArrayEquals(expected, testExample.flattenArray(negativeArray));
     }
     @Test
-    public void negativeExample_shouldReportHighest5000LowestNeg1() throws Exception{
+    public void negativeExample_shouldReportHighest5000LowestNeg200() throws Exception{
         testExample.flattenArray(negativeArray);
         assertEquals("Highest Value: 5000\nLowest Value: -200\n", outContent.toString());
     }

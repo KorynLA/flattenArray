@@ -11,16 +11,16 @@ public class FlattenArray {
         if(array == null) {
             throw new NullPointerException();
         }
-        int size = 0;
+        int arraySize = 0;
         int highestVal = Integer.MIN_VALUE;
         int lowestVal  = Integer.MAX_VALUE;
         int flattenedArrayPointer = 0;
 
-        for(int[] each : array) {
-            size+=each.length;
+        for(int[] row : array) {
+            arraySize+=row.length;
         }
 
-        int flattenedArray[] = new int[size];
+        int flattenedArray[] = new int[arraySize];
         for (int r = 0; r < array.length; r++) {
             for (int c = 0; c < array[r].length; c++) {
                 flattenedArray[flattenedArrayPointer] = array[r][c];

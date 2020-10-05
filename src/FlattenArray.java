@@ -21,14 +21,14 @@ public class FlattenArray {
         }
 
         int flattenedArray[] = new int[size];
-        for (int i = 0; i < array.length; i++) {
-            for (int j = 0; j < array[i].length; j++) {
-                flattenedArray[flattenedArrayPointer] = array[i][j];
-                if(array[i][j] > highestVal) {
-                    highestVal = array[i][j];
+        for (int r = 0; r < array.length; r++) {
+            for (int c = 0; c < array[r].length; c++) {
+                flattenedArray[flattenedArrayPointer] = array[r][c];
+                if(array[r][c] > highestVal) {
+                    highestVal = array[r][c];
                 }
-                if(array[i][j] < lowestVal) {
-                    lowestVal = array[i][j];
+                if(array[r][c] < lowestVal) {
+                    lowestVal = array[r][c];
                 }
                 flattenedArrayPointer++;
             }
